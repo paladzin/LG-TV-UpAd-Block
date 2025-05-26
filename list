@@ -39,3 +39,5 @@
 0.0.0.0 su-dev.lge.com 
 0.0.0.0 su.lge.com 
 0.0.0.0 su-ssl.lge.com
+0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
